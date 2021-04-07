@@ -1,0 +1,13 @@
+
+
+.contenedor{
+  padding: 30px;
+  margin: 50px;
+  height: 550px;
+  background: rgb(25, 167, 176);
+}
+
+p{
+  text-align: center;
+  font-size: 2rem;
+}
